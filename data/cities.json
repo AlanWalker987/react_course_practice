@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "date": "2023-07-31T17:25:45.795Z",
+      "notes": "",
+      "emoji": "",
+      "position": {
+        "lat": "40.060068877565534",
+        "lng": "-0.03845098197011732"
+      },
+      "id": 0.6189610307974764
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2023-08-01T13:00:57.977Z",
+      "notes": "",
+      "emoji": "",
+      "position": {
+        "lat": "39.98578096709896",
+        "lng": "-0.034647447337505806"
+      },
+      "id": 0.3333317566317042
+    }
+  ]
+}
